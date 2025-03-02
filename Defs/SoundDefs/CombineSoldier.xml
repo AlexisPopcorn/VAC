@@ -1,0 +1,114 @@
+<Defs>
+    <SoundDef>
+		<defName>VAC_CombineSoldier_Pain</defName>
+		<context>MapOnly</context>
+		<maxSimultaneous>1</maxSimultaneous>
+		<subSounds>
+			<li>
+				<grains>
+					<li Class="AudioGrain_Folder">
+						<clipFolderPath>VAC/Half_Life_2/Male/CombineSoldier/Pain</clipFolderPath>
+					</li>
+				</grains>
+			</li>
+		</subSounds>
+	</SoundDef>
+    <SoundDef>
+		<defName>VAC_CombineSoldier_Select</defName>
+		<context>MapOnly</context>
+		<maxSimultaneous>1</maxSimultaneous>
+		<subSounds>
+			<li>
+				<grains>
+					<li Class="AudioGrain_Folder">
+						<clipFolderPath>VAC/Half_Life_2/Male/CombineSoldier/Select</clipFolderPath>
+					</li>
+				</grains>
+			</li>
+		</subSounds>
+	</SoundDef>
+    <SoundDef>
+		<defName>VAC_CombineSoldier_Attack</defName>
+		<context>MapOnly</context>
+		<maxSimultaneous>1</maxSimultaneous>
+		<subSounds>
+			<li>
+				<grains>
+					<li Class="AudioGrain_Folder">
+						<clipFolderPath>VAC/Half_Life_2/Male/CombineSoldier/Attack</clipFolderPath>
+					</li>
+				</grains>
+			</li>
+		</subSounds>
+	</SoundDef>
+    <SoundDef>
+		<defName>VAC_CombineSoldier_Move</defName>
+		<context>MapOnly</context>
+		<maxSimultaneous>1</maxSimultaneous>
+		<subSounds>
+			<li>
+				<grains>
+					<li Class="AudioGrain_Folder">
+						<clipFolderPath>VAC/Half_Life_2/Male/CombineSoldier/Move</clipFolderPath>
+					</li>
+				</grains>
+			</li>
+		</subSounds>
+	</SoundDef>
+    <SoundDef>
+		<defName>VAC_CombineSoldier_Death</defName>
+		<context>MapOnly</context>
+		<maxSimultaneous>1</maxSimultaneous>
+		<subSounds>
+			<li>
+				<grains>
+					<li Class="AudioGrain_Folder">
+						<clipFolderPath>VAC/Half_Life_2/Male/CombineSoldier/Death</clipFolderPath>
+					</li>
+				</grains>
+			</li>
+		</subSounds>
+	</SoundDef>
+    <SoundDef>
+		<defName>VAC_CombineSoldier_DowningPawn</defName>
+		<context>MapOnly</context>
+		<maxSimultaneous>1</maxSimultaneous>
+		<subSounds>
+			<li>
+				<grains>
+					<li Class="AudioGrain_Folder">
+						<clipFolderPath>VAC/Half_Life_2/Male/CombineSoldier/DowningPawn</clipFolderPath>
+					</li>
+				</grains>
+			</li>
+		</subSounds>
+	</SoundDef>
+    <SoundDef>
+		<defName>VAC_CombineSoldier_Hitting</defName>
+		<context>MapOnly</context>
+		<maxSimultaneous>1</maxSimultaneous>
+		<subSounds>
+			<li>
+				<grains>
+					<li Class="AudioGrain_Folder">
+						<clipFolderPath>VAC/Half_Life_2/Male/CombineSoldier/Hitting</clipFolderPath>
+					</li>
+				</grains>
+			</li>
+		</subSounds>
+	</SoundDef>
+    <SoundDef>
+		<defName>VAC_CombineSoldier_Downed</defName>
+		<context>MapOnly</context>
+		<maxSimultaneous>1</maxSimultaneous>
+		<subSounds>
+			<li>
+				<grains>
+					<li Class="AudioGrain_Folder">
+						<clipFolderPath>VAC/Half_Life_2/Male/CombineSoldier/Downed</clipFolderPath>
+					</li>
+				</grains>
+			</li>
+		</subSounds>
+	</SoundDef>
+</Defs>

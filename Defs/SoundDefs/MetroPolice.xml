@@ -1,0 +1,114 @@
+<Defs>
+    <SoundDef>
+		<defName>VAC_MetroPolice_Pain</defName>
+		<context>MapOnly</context>
+		<maxSimultaneous>1</maxSimultaneous>
+		<subSounds>
+			<li>
+				<grains>
+					<li Class="AudioGrain_Folder">
+						<clipFolderPath>VAC/Half_Life_2/Male/MetroPolice/Pain</clipFolderPath>
+					</li>
+				</grains>
+			</li>
+		</subSounds>
+	</SoundDef>
+    <SoundDef>
+		<defName>VAC_MetroPolice_Select</defName>
+		<context>MapOnly</context>
+		<maxSimultaneous>1</maxSimultaneous>
+		<subSounds>
+			<li>
+				<grains>
+					<li Class="AudioGrain_Folder">
+						<clipFolderPath>VAC/Half_Life_2/Male/MetroPolice/Select</clipFolderPath>
+					</li>
+				</grains>
+			</li>
+		</subSounds>
+	</SoundDef>
+    <SoundDef>
+		<defName>VAC_MetroPolice_Attack</defName>
+		<context>MapOnly</context>
+		<maxSimultaneous>1</maxSimultaneous>
+		<subSounds>
+			<li>
+				<grains>
+					<li Class="AudioGrain_Folder">
+						<clipFolderPath>VAC/Half_Life_2/Male/MetroPolice/Attack</clipFolderPath>
+					</li>
+				</grains>
+			</li>
+		</subSounds>
+	</SoundDef>
+    <SoundDef>
+		<defName>VAC_MetroPolice_Move</defName>
+		<context>MapOnly</context>
+		<maxSimultaneous>1</maxSimultaneous>
+		<subSounds>
+			<li>
+				<grains>
+					<li Class="AudioGrain_Folder">
+						<clipFolderPath>VAC/Half_Life_2/Male/MetroPolice/Move</clipFolderPath>
+					</li>
+				</grains>
+			</li>
+		</subSounds>
+	</SoundDef>
+    <SoundDef>
+		<defName>VAC_MetroPolice_Death</defName>
+		<context>MapOnly</context>
+		<maxSimultaneous>1</maxSimultaneous>
+		<subSounds>
+			<li>
+				<grains>
+					<li Class="AudioGrain_Folder">
+						<clipFolderPath>VAC/Half_Life_2/Male/MetroPolice/Death</clipFolderPath>
+					</li>
+				</grains>
+			</li>
+		</subSounds>
+	</SoundDef>
+    <SoundDef>
+		<defName>VAC_MetroPolice_DowningPawn</defName>
+		<context>MapOnly</context>
+		<maxSimultaneous>1</maxSimultaneous>
+		<subSounds>
+			<li>
+				<grains>
+					<li Class="AudioGrain_Folder">
+						<clipFolderPath>VAC/Half_Life_2/Male/MetroPolice/DowningPawn</clipFolderPath>
+					</li>
+				</grains>
+			</li>
+		</subSounds>
+	</SoundDef>
+    <SoundDef>
+		<defName>VAC_MetroPolice_Hitting</defName>
+		<context>MapOnly</context>
+		<maxSimultaneous>1</maxSimultaneous>
+		<subSounds>
+			<li>
+				<grains>
+					<li Class="AudioGrain_Folder">
+						<clipFolderPath>VAC/Half_Life_2/Male/MetroPolice/Hitting</clipFolderPath>
+					</li>
+				</grains>
+			</li>
+		</subSounds>
+	</SoundDef>
+    <SoundDef>
+		<defName>VAC_MetroPolice_Downed</defName>
+		<context>MapOnly</context>
+		<maxSimultaneous>1</maxSimultaneous>
+		<subSounds>
+			<li>
+				<grains>
+					<li Class="AudioGrain_Folder">
+						<clipFolderPath>VAC/Half_Life_2/Male/MetroPolice/Downed</clipFolderPath>
+					</li>
+				</grains>
+			</li>
+		</subSounds>
+	</SoundDef>
+</Defs>

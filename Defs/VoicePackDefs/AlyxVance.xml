@@ -1,0 +1,33 @@
+<Defs>
+    <VAC.VoicePackDef>
+        <defName>VoicePack_AlyxVance</defName>
+        <label>AlyxVance</label>
+        <description>description</description>
+        <category>category1</category>
+        <gender>Female</gender>
+        <selectList>
+            <li>VAC_AlyxVance_Select</li>
+        </selectList>
+        <attackList>
+            <li>VAC_AlyxVance_Attack</li>
+        </attackList>
+        <movingList>
+            <li>VAC_AlyxVance_Move</li>
+        </movingList>
+        <deathList>
+            <li>VAC_AlyxVance_Death</li>
+        </deathList>
+        <downList>
+            <li>VAC_AlyxVance_Downed</li>
+        </downList>
+        <downPawnList>
+            <li>VAC_AlyxVance_DowningPawn</li>
+        </downPawnList>
+        <hitList>
+            <li>VAC_AlyxVance_Hitting</li>
+        </hitList>
+        <painList>
+            <li>VAC_AlyxVance_Pain</li>
+        </painList>
+    </VAC.VoicePackDef>
+</Defs>

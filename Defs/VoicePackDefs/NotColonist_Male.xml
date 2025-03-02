@@ -1,0 +1,19 @@
+<Defs>
+    <VAC.VoicePackDef>
+        <defName>VoicePack_HumanMale</defName>
+        <label>NotColonist_Male</label>
+        <description>Random Male Death/Pain Sounds</description>
+        <category>NotColonist</category>
+        <gender>Male</gender>
+        <deathList>
+            <li>VAC_HumanMale1_Death</li>
+            <li>VAC_HumanMale2_Death</li>
+            <li>VAC_HumanMale3_Death</li>
+        </deathList>
+        <painList>
+            <li>VAC_HumanMale1_Pain</li>
+            <li>VAC_HumanMale2_Pain</li>
+            <li>VAC_HumanMale3_Pain</li>
+        </painList>
+    </VAC.VoicePackDef>
+</Defs>

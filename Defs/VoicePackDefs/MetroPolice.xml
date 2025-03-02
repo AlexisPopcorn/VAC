@@ -1,0 +1,33 @@
+<Defs>
+    <VAC.VoicePackDef>
+        <defName>VoicePack_MetroPolice</defName>
+        <label>MetroPolice</label>
+        <description>description</description>
+        <category>category1</category>
+        <gender>Female</gender>
+        <selectList>
+            <li>VAC_MetroPolice_Select</li>
+        </selectList>
+        <attackList>
+            <li>VAC_MetroPolice_Attack</li>
+        </attackList>
+        <movingList>
+            <li>VAC_MetroPolice_Move</li>
+        </movingList>
+        <deathList>
+            <li>VAC_MetroPolice_Death</li>
+        </deathList>
+        <downList>
+            <li>VAC_MetroPolice_Downed</li>
+        </downList>
+        <downPawnList>
+            <li>VAC_MetroPolice_DowningPawn</li>
+        </downPawnList>
+        <hitList>
+            <li>VAC_MetroPolice_Hitting</li>
+        </hitList>
+        <painList>
+            <li>VAC_MetroPolice_Pain</li>
+        </painList>
+    </VAC.VoicePackDef>
+</Defs>

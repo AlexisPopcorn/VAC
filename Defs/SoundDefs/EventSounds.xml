@@ -1,0 +1,338 @@
+<Defs>
+    <SoundDef>
+		<defName>VAC_FormCaravan</defName>
+		<context>MapOnly</context>
+		<maxSimultaneous>1</maxSimultaneous>
+		<subSounds>
+			<li>
+				<onCamera>True</onCamera>      
+				<grains>
+					<li Class="AudioGrain_Clip">
+						<clipPath>VAC/EventSound/FormCaravan1</clipPath>
+					</li>
+				</grains>
+				<volumeRange>42</volumeRange>
+				<distRange>20~50</distRange>
+			</li>
+		</subSounds>
+	</SoundDef>
+    <SoundDef>
+		<defName>VAC_MentalBreak</defName>
+		<context>MapOnly</context>
+		<maxSimultaneous>1</maxSimultaneous>
+		<subSounds>
+			<li>
+				<onCamera>True</onCamera>      
+				<grains>
+					<li Class="AudioGrain_Clip">
+						<clipPath>VAC/EventSound/MentalBreak1</clipPath>
+					</li>
+				</grains>
+				<volumeRange>42</volumeRange>
+				<distRange>20~50</distRange>
+			</li>
+		</subSounds>
+	</SoundDef>
+    <SoundDef>
+		<defName>VAC_TransportCrash</defName>
+		<context>MapOnly</context>
+		<maxSimultaneous>1</maxSimultaneous>
+		<subSounds>
+			<li>
+				<onCamera>True</onCamera>      
+				<grains>
+					<li Class="AudioGrain_Clip">
+						<clipPath>VAC/EventSound/TransportCrash1</clipPath>
+					</li>
+				</grains>
+				<volumeRange>42</volumeRange>
+				<distRange>20~50</distRange>
+			</li>
+		</subSounds>
+	</SoundDef>
+    <SoundDef>
+		<defName>VAC_Zzzt</defName>
+		<context>MapOnly</context>
+		<maxSimultaneous>1</maxSimultaneous>
+		<subSounds>
+			<li>
+				<onCamera>True</onCamera>      
+				<grains>
+					<li Class="AudioGrain_Clip">
+						<clipPath>VAC/EventSound/Zzzt1</clipPath>
+					</li>
+				</grains>
+				<volumeRange>42</volumeRange>
+				<distRange>20~50</distRange>
+			</li>
+		</subSounds>
+	</SoundDef>
+    <SoundDef>
+		<defName>VAC_Arrested</defName>
+		<context>MapOnly</context>
+		<maxSimultaneous>1</maxSimultaneous>
+		<subSounds>
+			<li>
+				<onCamera>True</onCamera>      
+				<grains>
+					<li Class="AudioGrain_Clip">
+						<clipPath>VAC/EventSound/Arrested1</clipPath>
+					</li>
+					<li Class="AudioGrain_Clip">
+						<clipPath>VAC/EventSound/Arrested2</clipPath>
+					</li>
+					<li Class="AudioGrain_Clip">
+						<clipPath>VAC/EventSound/Arrested3</clipPath>
+					</li>
+					<li Class="AudioGrain_Clip">
+						<clipPath>VAC/EventSound/Arrested4</clipPath>
+					</li>
+					<li Class="AudioGrain_Clip">
+						<clipPath>VAC/EventSound/Arrested5</clipPath>
+					</li>
+					<li Class="AudioGrain_Clip">
+						<clipPath>VAC/EventSound/Arrested6</clipPath>
+					</li>
+					<li Class="AudioGrain_Clip">
+						<clipPath>VAC/EventSound/Arrested7</clipPath>
+					</li>
+				</grains>
+				<volumeRange>42</volumeRange>
+				<distRange>20~50</distRange>
+			</li>
+		</subSounds>
+	</SoundDef>
+
+    <SoundDef>
+		<defName>VAC_Betrayal</defName>
+		<context>MapOnly</context>
+		<maxSimultaneous>1</maxSimultaneous>
+		<subSounds>
+			<li>
+				<onCamera>True</onCamera>      
+				<grains>
+					<li Class="AudioGrain_Clip">
+						<clipPath>VAC/EventSound/Betrayal1</clipPath>
+					</li>
+				</grains>
+				<volumeRange>42</volumeRange>
+				<distRange>20~50</distRange>
+			</li>
+		</subSounds>
+	</SoundDef>
+    <SoundDef>
+		<defName>VAC_SolarFlare</defName>
+		<context>MapOnly</context>
+		<maxSimultaneous>1</maxSimultaneous>
+		<subSounds>
+			<li>
+				<onCamera>True</onCamera>      
+				<grains>
+					<li Class="AudioGrain_Clip">
+						<clipPath>VAC/EventSound/SolarFlare1</clipPath>
+					</li>
+					<li Class="AudioGrain_Clip">
+						<clipPath>VAC/EventSound/SolarFlare2</clipPath>
+					</li>
+				</grains>
+				<volumeRange>42</volumeRange>
+				<distRange>20~50</distRange>
+			</li>
+		</subSounds>
+	</SoundDef>
+    <SoundDef>
+		<defName>VAC_ToxicFallout</defName>
+		<context>MapOnly</context>
+		<maxSimultaneous>1</maxSimultaneous>
+		<subSounds>
+			<li>
+				<onCamera>True</onCamera>      
+				<grains>
+					<li Class="AudioGrain_Clip">
+						<clipPath>VAC/EventSound/ToxicFallout1</clipPath>
+					</li>
+				</grains>
+				<volumeRange>42</volumeRange>
+				<distRange>20~50</distRange>
+			</li>
+		</subSounds>
+	</SoundDef>
+
+	<SoundDef>
+		<defName>VAC_ToxicSpewer</defName>
+		<context>MapOnly</context>
+		<maxSimultaneous>1</maxSimultaneous>
+		<subSounds>
+			<li>
+				<onCamera>True</onCamera>      
+				<grains>
+					<li Class="AudioGrain_Clip">
+						<clipPath>VAC/EventSound/ToxicSpewer1</clipPath>
+					</li>
+				</grains>
+				<volumeRange>42</volumeRange>
+				<distRange>20~50</distRange>
+			</li>
+		</subSounds>
+	</SoundDef>
+	
+	<SoundDef>
+		<defName>VAC_WarMusicLoopDropPods</defName>
+		<context>MapOnly</context>
+		<maxSimultaneous>1</maxSimultaneous>
+		<maxVoices>1</maxVoices>
+		<priorityMode>PrioritizeNearest</priorityMode>
+		<subSounds>
+			<li>
+				<onCamera>True</onCamera>      
+				<grains>
+					<li Class="AudioGrain_Clip">
+						<clipPath>VAC/WarMusic/WarMusicLoopDropPods</clipPath>
+					</li>
+				</grains>
+				<volumeRange>42</volumeRange>
+				<distRange>20~50</distRange>
+			</li>
+		</subSounds>
+	</SoundDef>
+	
+	<SoundDef>
+		<defName>VAC_HumanRaidEvent</defName>
+		<context>MapOnly</context>
+		<maxSimultaneous>1</maxSimultaneous>
+		<subSounds>
+			<li>
+				<onCamera>True</onCamera>      
+				<grains>
+					<li Class="AudioGrain_Clip">
+						<clipPath>VAC/EventSound/HumanRaid1</clipPath>
+					</li>
+					<li Class="AudioGrain_Clip">
+						<clipPath>VAC/EventSound/HumanRaid2</clipPath>
+					</li>
+					<li Class="AudioGrain_Clip">
+						<clipPath>VAC/EventSound/HumanRaid3</clipPath>
+					</li>
+					<li Class="AudioGrain_Clip">
+						<clipPath>VAC/EventSound/HumanRaid4</clipPath>
+					</li>
+					<li Class="AudioGrain_Clip">
+						<clipPath>VAC/EventSound/HumanRaid5</clipPath>
+					</li>
+				</grains>
+				<volumeRange>42</volumeRange>
+				<distRange>20~50</distRange>
+			</li>
+		</subSounds>
+	</SoundDef>
+	
+	<SoundDef>
+		<defName>VAC_InfestationEvent</defName>
+		<context>MapOnly</context>
+		<maxSimultaneous>1</maxSimultaneous>
+		<subSounds>
+			<li>
+				<onCamera>True</onCamera>      
+				<grains>
+					<li Class="AudioGrain_Clip">
+						<clipPath>VAC/EventSound/Infestation1</clipPath>
+					</li>
+					<li Class="AudioGrain_Clip">
+						<clipPath>VAC/EventSound/Infestation2</clipPath>
+					</li>
+				</grains>
+				<volumeRange>42</volumeRange>
+				<distRange>20~50</distRange>
+			</li>
+		</subSounds>
+	</SoundDef>
+	
+	<SoundDef>
+		<defName>VAC_WarMusicLoopMechanoidRaid</defName>
+		<context>MapOnly</context>
+		<maxSimultaneous>1</maxSimultaneous>
+		<maxVoices>1</maxVoices>
+		<priorityMode>PrioritizeNearest</priorityMode>
+		<subSounds>
+			<li>
+				<onCamera>True</onCamera>      
+				<grains>
+					<li Class="AudioGrain_Clip">
+						<clipPath>VAC/EventSound/MechanoidEvent1</clipPath>
+					</li>
+				</grains>
+				<volumeRange>42</volumeRange>
+				<distRange>20~50</distRange>
+			</li>
+			<li>
+				<onCamera>True</onCamera>      
+				<grains>
+					<li Class="AudioGrain_Clip">
+						<clipPath>VAC/WarMusic/WarMusicLoopMechanoidRaid</clipPath>
+					</li>
+				</grains>
+				<volumeRange>42</volumeRange>
+				<distRange>20~50</distRange>
+			</li>
+		</subSounds>
+	</SoundDef>
+	
+	<SoundDef>
+		<defName>VAC_ManhunterEvent</defName>
+		<context>MapOnly</context>
+		<maxSimultaneous>1</maxSimultaneous>
+		<subSounds>
+			<li>
+				<onCamera>True</onCamera>      
+				<grains>
+					<li Class="AudioGrain_Clip">
+						<clipPath>VAC/EventSound/ManhunterEvent1</clipPath>
+					</li>
+				</grains>
+				<volumeRange>42</volumeRange>
+				<distRange>20~50</distRange>
+			</li>
+		</subSounds>
+	</SoundDef>
+	
+	<SoundDef>
+		<defName>VAC_WarMusicLoopHumanRaid</defName>
+		<context>MapOnly</context>
+		<maxSimultaneous>1</maxSimultaneous>
+		<maxVoices>1</maxVoices>
+		<priorityMode>PrioritizeNearest</priorityMode>
+		<subSounds>
+			<li>
+				<onCamera>True</onCamera>      
+				<grains>
+					<li Class="AudioGrain_Clip">
+						<clipPath>VAC/WarMusic/WarMusicLoopHumanRaid</clipPath>
+					</li>
+				</grains>
+				<volumeRange>42</volumeRange>
+				<distRange>20~50</distRange>
+			</li>
+		</subSounds>
+	</SoundDef>
+	
+	<SoundDef>
+		<defName>VAC_WarMusicLoopInfestation</defName>
+		<context>MapOnly</context>
+		<maxSimultaneous>1</maxSimultaneous>
+		<maxVoices>1</maxVoices>
+		<priorityMode>PrioritizeNearest</priorityMode>
+		<subSounds>
+			<li>
+				<onCamera>True</onCamera>      
+				<grains>
+					<li Class="AudioGrain_Clip">
+						<clipPath>VAC/WarMusic/WarMusicLoopInfestation</clipPath>
+					</li>
+				</grains>
+				<volumeRange>42</volumeRange>
+				<distRange>20~50</distRange>
+			</li>
+		</subSounds>
+	</SoundDef>
+	
+</Defs>

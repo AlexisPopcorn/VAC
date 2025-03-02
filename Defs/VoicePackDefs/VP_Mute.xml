@@ -1,0 +1,16 @@
+<Defs>
+    <VAC.VoicePackDef>
+        <defName>Mute</defName>
+        <label>mute</label>
+        <description>no voice lol</description>
+        <category>Misc</category>
+        <gender>Any</gender>
+        <selectList>
+        </selectList>
+        <attackList>
+        </attackList>
+        <movingList>
+        </movingList>
+        <downList></downList>
+    </VAC.VoicePackDef>
+</Defs>

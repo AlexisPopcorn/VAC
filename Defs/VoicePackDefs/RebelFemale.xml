@@ -1,0 +1,33 @@
+<Defs>
+    <VAC.VoicePackDef>
+        <defName>VoicePack_RebelFemale</defName>
+        <label>RebelFemale</label>
+        <description>description</description>
+        <category>category1</category>
+        <gender>Female</gender>
+        <selectList>
+            <li>VAC_RebelFemale_Select</li>
+        </selectList>
+        <attackList>
+            <li>VAC_RebelFemale_Attack</li>
+        </attackList>
+        <movingList>
+            <li>VAC_RebelFemale_Move</li>
+        </movingList>
+        <deathList>
+            <li>VAC_RebelFemale_Death</li>
+        </deathList>
+        <downList>
+            <li>VAC_RebelFemale_Downed</li>
+        </downList>
+        <downPawnList>
+            <li>VAC_RebelFemale_DowningPawn</li>
+        </downPawnList>
+        <hitList>
+            <li>VAC_RebelFemale_Hitting</li>
+        </hitList>
+        <painList>
+            <li>VAC_RebelFemale_Pain</li>
+        </painList>
+    </VAC.VoicePackDef>
+</Defs>

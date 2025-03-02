@@ -1,0 +1,27 @@
+<Defs>
+    <VAC.VoicePackDef>
+        <defName>VoicePack_Magnusson</defName>
+        <label>Magnusson</label>
+        <description>description</description>
+        <category>category1</category>
+        <gender>Male</gender>
+        <selectList>
+            <li>VAC_Magnusson_Select</li>
+        </selectList>
+        <attackList>
+            <li>VAC_Magnusson_Attack</li>
+        </attackList>
+        <movingList>
+            <li>VAC_Magnusson_Move</li>
+        </movingList>
+        <deathList>
+            <li>VAC_Magnusson_Death</li>
+        </deathList>
+        <downList>
+            <li>VAC_Magnusson_Downed</li>
+        </downList>
+        <downPawnList>
+            <li>VAC_Magnusson_DowningPawn</li>
+        </downPawnList>
+    </VAC.VoicePackDef>
+</Defs>

@@ -1,0 +1,290 @@
+<Defs>
+    <SoundDef>
+		<defName>VAC_Vortigaunt_Attack</defName>
+		<context>MapOnly</context>
+		<maxSimultaneous>1</maxSimultaneous>
+		<subSounds>
+			<li>
+				<grains>
+					<li Class="AudioGrain_Clip">
+						<clipPath>VAC/Half_Life_2/Male/Vortigaunt/Attack/Attack</clipPath>
+					</li>
+					<li Class="AudioGrain_Clip">
+						<clipPath>VAC/Half_Life_2/Male/Vortigaunt/Attack/Attack2</clipPath>
+					</li>
+					<li Class="AudioGrain_Clip">
+						<clipPath>VAC/Half_Life_2/Male/Vortigaunt/Attack/Attack3</clipPath>
+					</li>
+					<li Class="AudioGrain_Clip">
+						<clipPath>VAC/Half_Life_2/Male/Vortigaunt/Attack/Attack4</clipPath>
+					</li>
+					<li Class="AudioGrain_Clip">
+						<clipPath>VAC/Half_Life_2/Male/Vortigaunt/Attack/Attack5</clipPath>
+					</li>
+					<li Class="AudioGrain_Clip">
+						<clipPath>VAC/Half_Life_2/Male/Vortigaunt/Attack/Attack6</clipPath>
+					</li>
+					<li Class="AudioGrain_Clip">
+						<clipPath>VAC/Half_Life_2/Male/Vortigaunt/Attack/Attack7</clipPath>
+					</li>
+					<li Class="AudioGrain_Clip">
+						<clipPath>VAC/Half_Life_2/Male/Vortigaunt/Attack/Attack8</clipPath>
+					</li>
+					<li Class="AudioGrain_Clip">
+						<clipPath>VAC/Half_Life_2/Male/Vortigaunt/Attack/Attack9</clipPath>
+					</li>
+					<li Class="AudioGrain_Clip">
+						<clipPath>VAC/Half_Life_2/Male/Vortigaunt/Attack/Attack10</clipPath>
+					</li>
+					<li Class="AudioGrain_Clip">
+						<clipPath>VAC/Half_Life_2/Male/Vortigaunt/Attack/Attack11</clipPath>
+					</li>
+					<li Class="AudioGrain_Clip">
+						<clipPath>VAC/Half_Life_2/Male/Vortigaunt/Attack/Attack12</clipPath>
+					</li>
+				</grains>
+				<volumeRange>42</volumeRange>
+				<distRange>20~50</distRange>
+			</li>
+		</subSounds>
+	</SoundDef>
+	<SoundDef>
+		<defName>VAC_Vortigaunt_Select</defName>
+		<context>MapOnly</context>
+		<maxSimultaneous>1</maxSimultaneous>
+		<subSounds>
+			<li>
+				<grains>
+					<li Class="AudioGrain_Clip">
+						<clipPath>VAC/Half_Life_2/Male/Vortigaunt/Select/Select</clipPath>
+					</li>
+					<li Class="AudioGrain_Clip">
+						<clipPath>VAC/Half_Life_2/Male/Vortigaunt/Select/Select2</clipPath>
+					</li>
+					<li Class="AudioGrain_Clip">
+						<clipPath>VAC/Half_Life_2/Male/Vortigaunt/Select/Select3</clipPath>
+					</li>
+					<li Class="AudioGrain_Clip">
+						<clipPath>VAC/Half_Life_2/Male/Vortigaunt/Select/Select4</clipPath>
+					</li>
+					<li Class="AudioGrain_Clip">
+						<clipPath>VAC/Half_Life_2/Male/Vortigaunt/Select/Select5</clipPath>
+					</li>
+					<li Class="AudioGrain_Clip">
+						<clipPath>VAC/Half_Life_2/Male/Vortigaunt/Select/Select6</clipPath>
+					</li>
+					<li Class="AudioGrain_Clip">
+						<clipPath>VAC/Half_Life_2/Male/Vortigaunt/Select/Select7</clipPath>
+					</li>
+					<li Class="AudioGrain_Clip">
+						<clipPath>VAC/Half_Life_2/Male/Vortigaunt/Select/Select8</clipPath>
+					</li>
+					<li Class="AudioGrain_Clip">
+						<clipPath>VAC/Half_Life_2/Male/Vortigaunt/Select/Select9</clipPath>
+					</li>
+					<li Class="AudioGrain_Clip">
+						<clipPath>VAC/Half_Life_2/Male/Vortigaunt/Select/Select10</clipPath>
+					</li>
+					<li Class="AudioGrain_Clip">
+						<clipPath>VAC/Half_Life_2/Male/Vortigaunt/Select/Select11</clipPath>
+					</li>
+					<li Class="AudioGrain_Clip">
+						<clipPath>VAC/Half_Life_2/Male/Vortigaunt/Select/Select12</clipPath>
+					</li>
+					<li Class="AudioGrain_Clip">
+						<clipPath>VAC/Half_Life_2/Male/Vortigaunt/Select/Select13</clipPath>
+					</li>
+					<li Class="AudioGrain_Clip">
+						<clipPath>VAC/Half_Life_2/Male/Vortigaunt/Select/Select14</clipPath>
+					</li>
+					<li Class="AudioGrain_Clip">
+						<clipPath>VAC/Half_Life_2/Male/Vortigaunt/Select/Select15</clipPath>
+					</li>
+					<li Class="AudioGrain_Clip">
+						<clipPath>VAC/Half_Life_2/Male/Vortigaunt/Select/Select16</clipPath>
+					</li>
+					<li Class="AudioGrain_Clip">
+						<clipPath>VAC/Half_Life_2/Male/Vortigaunt/Select/Select17</clipPath>
+					</li>
+					<li Class="AudioGrain_Clip">
+						<clipPath>VAC/Half_Life_2/Male/Vortigaunt/Select/Select18</clipPath>
+					</li>
+					<li Class="AudioGrain_Clip">
+						<clipPath>VAC/Half_Life_2/Male/Vortigaunt/Select/Select19</clipPath>
+					</li>
+					<li Class="AudioGrain_Clip">
+						<clipPath>VAC/Half_Life_2/Male/Vortigaunt/Select/Select20</clipPath>
+					</li>
+					<li Class="AudioGrain_Clip">
+						<clipPath>VAC/Half_Life_2/Male/Vortigaunt/Select/Select21</clipPath>
+					</li>
+					<li Class="AudioGrain_Clip">
+						<clipPath>VAC/Half_Life_2/Male/Vortigaunt/Select/Select22</clipPath>
+					</li>
+					<li Class="AudioGrain_Clip">
+						<clipPath>VAC/Half_Life_2/Male/Vortigaunt/Select/Select23</clipPath>
+					</li>
+					<li Class="AudioGrain_Clip">
+						<clipPath>VAC/Half_Life_2/Male/Vortigaunt/Select/Select24</clipPath>
+					</li>
+					<li Class="AudioGrain_Clip">
+						<clipPath>VAC/Half_Life_2/Male/Vortigaunt/Select/Select25</clipPath>
+					</li>
+					<li Class="AudioGrain_Clip">
+						<clipPath>VAC/Half_Life_2/Male/Vortigaunt/Select/Select26</clipPath>
+					</li>
+				</grains>
+				<volumeRange>42</volumeRange>
+				<distRange>20~50</distRange>
+			</li>
+		</subSounds>
+	</SoundDef>
+
+	<SoundDef>
+		<defName>VAC_Vortigaunt_Move</defName>
+		<context>MapOnly</context>
+		<maxSimultaneous>1</maxSimultaneous>
+		<subSounds>
+			<li>
+				<grains>
+					<li Class="AudioGrain_Clip">
+						<clipPath>VAC/Half_Life_2/Male/Vortigaunt/Move/Move</clipPath>
+					</li>
+					<li Class="AudioGrain_Clip">
+						<clipPath>VAC/Half_Life_2/Male/Vortigaunt/Move/Move2</clipPath>
+					</li>
+					<li Class="AudioGrain_Clip">
+						<clipPath>VAC/Half_Life_2/Male/Vortigaunt/Move/Move3</clipPath>
+					</li>
+					<li Class="AudioGrain_Clip">
+						<clipPath>VAC/Half_Life_2/Male/Vortigaunt/Move/Move4</clipPath>
+					</li>
+					<li Class="AudioGrain_Clip">
+						<clipPath>VAC/Half_Life_2/Male/Vortigaunt/Move/Move5</clipPath>
+					</li>
+					<li Class="AudioGrain_Clip">
+						<clipPath>VAC/Half_Life_2/Male/Vortigaunt/Move/Move6</clipPath>
+					</li>
+					<li Class="AudioGrain_Clip">
+						<clipPath>VAC/Half_Life_2/Male/Vortigaunt/Move/Move7</clipPath>
+					</li>
+					<li Class="AudioGrain_Clip">
+						<clipPath>VAC/Half_Life_2/Male/Vortigaunt/Move/Move8</clipPath>
+					</li>
+					<li Class="AudioGrain_Clip">
+						<clipPath>VAC/Half_Life_2/Male/Vortigaunt/Move/Move9</clipPath>
+					</li>
+					<li Class="AudioGrain_Clip">
+						<clipPath>VAC/Half_Life_2/Male/Vortigaunt/Move/Move10</clipPath>
+					</li>
+					<li Class="AudioGrain_Clip">
+						<clipPath>VAC/Half_Life_2/Male/Vortigaunt/Move/Move11</clipPath>
+					</li>
+					<li Class="AudioGrain_Clip">
+						<clipPath>VAC/Half_Life_2/Male/Vortigaunt/Move/Move12</clipPath>
+					</li>
+					<li Class="AudioGrain_Clip">
+						<clipPath>VAC/Half_Life_2/Male/Vortigaunt/Move/Move13</clipPath>
+					</li>
+					<li Class="AudioGrain_Clip">
+						<clipPath>VAC/Half_Life_2/Male/Vortigaunt/Move/Move14</clipPath>
+					</li>
+				</grains>
+			</li>
+		</subSounds>
+		
+	</SoundDef>
+	<SoundDef>
+		<defName>VAC_Vortigaunt_Death</defName>
+		<context>MapOnly</context>
+		<maxSimultaneous>1</maxSimultaneous>
+		<subSounds>
+			<li>
+				<grains>
+					<li Class="AudioGrain_Clip">
+						<clipPath>VAC/Half_Life_2/Male/Vortigaunt/Death/Death</clipPath>
+					</li>
+					<li Class="AudioGrain_Clip">
+						<clipPath>VAC/Half_Life_2/Male/Vortigaunt/Death/Death2</clipPath>
+					</li>
+					<li Class="AudioGrain_Clip">
+						<clipPath>VAC/Half_Life_2/Male/Vortigaunt/Death/Death3</clipPath>
+					</li>
+					<li Class="AudioGrain_Clip">
+						<clipPath>VAC/Half_Life_2/Male/Vortigaunt/Death/Death4</clipPath>
+					</li>
+					<li Class="AudioGrain_Clip">
+						<clipPath>VAC/Half_Life_2/Male/Vortigaunt/Death/Death5</clipPath>
+					</li>
+					<li Class="AudioGrain_Clip">
+						<clipPath>VAC/Half_Life_2/Male/Vortigaunt/Death/Death6</clipPath>
+					</li>
+				</grains>
+			</li>
+		</subSounds>
+		
+	</SoundDef>
+	<SoundDef>
+		<defName>VAC_Vortigaunt_Downed</defName>
+		<context>MapOnly</context>
+		<maxSimultaneous>1</maxSimultaneous>
+		<subSounds>
+			<li>
+				<grains>
+					<li Class="AudioGrain_Clip">
+						<clipPath>VAC/Half_Life_2/Male/Vortigaunt/Downed/Downed</clipPath>
+					</li>
+					<li Class="AudioGrain_Clip">
+						<clipPath>VAC/Half_Life_2/Male/Vortigaunt/Downed/Downed2</clipPath>
+					</li>
+				</grains>
+			</li>
+		</subSounds>
+		
+	</SoundDef>
+	<SoundDef>
+		<defName>VAC_Vortigaunt_DowningPawn</defName>
+		<context>MapOnly</context>
+		<maxSimultaneous>1</maxSimultaneous>
+		<subSounds>
+			<li>
+				<grains>
+					<li Class="AudioGrain_Folder">
+						<clipFolderPath>VAC/Half_Life_2/Male/Vortigaunt/DowningPawn</clipFolderPath>
+					</li>
+				</grains>
+			</li>
+		</subSounds>
+		
+	</SoundDef>
+	<SoundDef>
+		<defName>VAC_Vortigaunt_Hitting</defName>
+		<context>MapOnly</context>
+		<maxSimultaneous>1</maxSimultaneous>
+		<subSounds>
+			<li>
+				<grains>
+					<li Class="AudioGrain_Folder">
+						<clipFolderPath>VAC/Half_Life_2/Male/Vortigaunt/Hitting</clipFolderPath>
+					</li>
+				</grains>
+			</li>
+		</subSounds>
+		
+	</SoundDef>
+	<SoundDef>
+		<defName>VAC_Vortigaunt_Pain</defName>
+		<context>MapOnly</context>
+		<maxSimultaneous>1</maxSimultaneous>
+		<subSounds>
+			<li>
+				<grains>
+					<li Class="AudioGrain_Folder">
+						<clipFolderPath>VAC/Half_Life_2/Male/Vortigaunt/Pain</clipFolderPath>
+					</li>
+				</grains>
+			</li>
+		</subSounds>
+		
+	</SoundDef>
+</Defs>

@@ -1,0 +1,33 @@
+<Defs>
+    <VAC.VoicePackDef>
+        <defName>VoicePack_CombineSoldier</defName>
+        <label>CombineSoldier</label>
+        <description>description</description>
+        <category>category1</category>
+        <gender>Female</gender>
+        <selectList>
+            <li>VAC_CombineSoldier_Select</li>
+        </selectList>
+        <attackList>
+            <li>VAC_CombineSoldier_Attack</li>
+        </attackList>
+        <movingList>
+            <li>VAC_CombineSoldier_Move</li>
+        </movingList>
+        <deathList>
+            <li>VAC_CombineSoldier_Death</li>
+        </deathList>
+        <downList>
+            <li>VAC_CombineSoldier_Downed</li>
+        </downList>
+        <downPawnList>
+            <li>VAC_CombineSoldier_DowningPawn</li>
+        </downPawnList>
+        <hitList>
+            <li>VAC_CombineSoldier_Hitting</li>
+        </hitList>
+        <painList>
+            <li>VAC_CombineSoldier_Pain</li>
+        </painList>
+    </VAC.VoicePackDef>
+</Defs>
